@@ -62,31 +62,3 @@
 
 % End of class file 
 \endinput
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
