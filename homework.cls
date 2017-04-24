@@ -50,7 +50,7 @@
 \usepackage[parfill]{parskip}
 \setlength{\footskip}{1.2cm}
 % Powers of ten
-\providecommand{\e}[1]{\ensuremath{\hspace{.1em}\cdot10^{#1}}}
+\providecommand{\e}[1]{\ensuremath{\times10^{#1}}}
 % Partial derivatives
 \newcommand{\doh}[2][]{\frac{\partial#1}{\partial#2}}
 % Translate *s in math to \cdots
