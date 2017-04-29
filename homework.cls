@@ -36,7 +36,9 @@
 }
     
 % Useful packages
-\usepackage[color=blue!40]{todonotes}
+\usepackage{physics}
+\usepackage{siunitix}
+\usepackage{todonotes}
 \usepackage{float}
 \usepackage{cancel}
 \usepackage{url}
