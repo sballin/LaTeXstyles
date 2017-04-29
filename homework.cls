@@ -37,7 +37,7 @@
     
 % Useful packages
 \usepackage{physics}
-\usepackage{siunitix}
+\usepackage{siunitx}
 \usepackage{todonotes}
 \usepackage{float}
 \usepackage{cancel}
